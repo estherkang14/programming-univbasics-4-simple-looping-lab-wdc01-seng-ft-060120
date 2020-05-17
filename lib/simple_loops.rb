@@ -1,6 +1,6 @@
 # Write your methods here
 
-#def loop_message_fives_times(message)
+def loop_message_fives_times(message)
 #end
 
 #def loop_message_n_times(message, number)
